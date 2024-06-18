@@ -26,7 +26,7 @@
 			)
 		)
 		(property "Footprint" "DLF-4_1P6X0P8"
-			(at -5.334 2.032 0)
+			(at 22.098 3.048 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36,7 +36,7 @@
 			)
 		)
 		(property "Datasheet" "DLF162500LT-5028A1"
-			(at -3.556 3.81 0)
+			(at 19.558 5.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -83,7 +83,7 @@
 		(symbol "DLF162500LT-5028A1_0_1"
 			(polyline
 				(pts
-					(xy 7.62 -7.62) (xy 48.26 -7.62)
+					(xy 30.48 -7.62) (xy 48.26 -7.62)
 				)
 				(stroke
 					(width 0.127)
@@ -95,7 +95,7 @@
 			)
 			(polyline
 				(pts
-					(xy 7.62 5.08) (xy 7.62 -7.62)
+					(xy 30.48 5.08) (xy 30.48 -7.62)
 				)
 				(stroke
 					(width 0.127)
@@ -119,7 +119,7 @@
 			)
 			(polyline
 				(pts
-					(xy 48.26 5.08) (xy 7.62 5.08)
+					(xy 48.26 5.08) (xy 30.48 5.08)
 				)
 				(stroke
 					(width 0.127)
@@ -130,7 +130,7 @@
 				)
 			)
 			(pin input line
-				(at 0 0 0)
+				(at 22.86 0 0)
 				(length 7.62)
 				(name "IN"
 					(effects
@@ -148,7 +148,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -2.54 0)
+				(at 22.86 -2.54 0)
 				(length 7.62)
 				(name "GND"
 					(effects
@@ -166,7 +166,7 @@
 				)
 			)
 			(pin output line
-				(at 55.88 -2.54 180)
+				(at 55.88 0 180)
 				(length 7.62)
 				(name "OUT"
 					(effects
@@ -184,7 +184,7 @@
 				)
 			)
 			(pin power_in line
-				(at 55.88 0 180)
+				(at 55.88 -2.54 180)
 				(length 7.62)
 				(name "GND"
 					(effects
