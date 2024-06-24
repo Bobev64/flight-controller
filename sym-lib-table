@@ -1,3 +1,4 @@
 (sym_lib_table
   (version 7)
+  (lib (name "TDK_LPF")(type "KiCad")(uri "${KIPRJMOD}/lib/DLF162500LT-5028A1/KiCADv6/2024-06-17_03-03-31.kicad_sym")(options "")(descr ""))
 )
