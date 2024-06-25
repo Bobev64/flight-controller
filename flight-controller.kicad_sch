@@ -6062,16 +6062,6 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 123.19) (xy 105.41 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "17f9d974-9eda-4ae2-9815-d4e8a2b72680")
-	)
-	(wire
-		(pts
 			(xy 142.24 52.07) (xy 142.24 49.53)
 		)
 		(stroke
@@ -7592,6 +7582,16 @@
 	)
 	(wire
 		(pts
+			(xy 105.41 123.19) (xy 116.84 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf4c0971-1e6c-45fa-b8a9-8cfca22e6d34")
+	)
+	(wire
+		(pts
 			(xy 57.15 57.15) (xy 31.75 57.15)
 		)
 		(stroke
@@ -8007,8 +8007,8 @@
 		)
 		(uuid "3679dcff-c6d4-4f7a-8837-364ed2016f09")
 	)
-	(label "SCL"
-		(at 113.03 120.65 0)
+	(label "I2C1_SCL"
+		(at 106.68 120.65 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8062,8 +8062,8 @@
 		)
 		(uuid "5c9babdf-4594-4c9b-b18b-9fcc12cb18df")
 	)
-	(label "SDA"
-		(at 113.03 123.19 0)
+	(label "I2C1_SDA"
+		(at 106.68 123.19 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
