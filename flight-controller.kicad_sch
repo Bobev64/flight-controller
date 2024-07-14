@@ -8859,7 +8859,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad"
 			(at 36.83 170.18 0)
 			(effects
 				(font
@@ -9053,7 +9053,7 @@
 			(uuid "dd99be98-d27c-40ed-9f8b-fc0c8e527067")
 		)
 		(instances
-			(project ""
+			(project "flight-controller"
 				(path "/a5f7a25c-082f-4bc5-b533-7e16fdbf1e58"
 					(reference "C21")
 					(unit 1)
@@ -9415,7 +9415,7 @@
 			(uuid "a3af92e9-6006-48cc-b4b2-1a935643dd3a")
 		)
 		(instances
-			(project ""
+			(project "flight-controller"
 				(path "/a5f7a25c-082f-4bc5-b533-7e16fdbf1e58"
 					(reference "#PWR025")
 					(unit 1)
@@ -9512,7 +9512,7 @@
 			(uuid "9fde0487-11aa-406d-ad1d-d3f283f2b65b")
 		)
 		(instances
-			(project ""
+			(project "flight-controller"
 				(path "/a5f7a25c-082f-4bc5-b533-7e16fdbf1e58"
 					(reference "R5")
 					(unit 1)
@@ -9742,7 +9742,7 @@
 			(uuid "cba14d80-e54e-406a-bf5f-b29c14a7eef1")
 		)
 		(instances
-			(project ""
+			(project "flight-controller"
 				(path "/a5f7a25c-082f-4bc5-b533-7e16fdbf1e58"
 					(reference "#PWR029")
 					(unit 1)
@@ -10166,7 +10166,7 @@
 			(uuid "952288e6-c4ae-4166-9930-92b629c1a38e")
 		)
 		(instances
-			(project ""
+			(project "flight-controller"
 				(path "/a5f7a25c-082f-4bc5-b533-7e16fdbf1e58"
 					(reference "U5")
 					(unit 1)
@@ -10491,7 +10491,7 @@
 			(uuid "f265795f-caac-4bf5-b37f-531673e04649")
 		)
 		(instances
-			(project ""
+			(project "flight-controller"
 				(path "/a5f7a25c-082f-4bc5-b533-7e16fdbf1e58"
 					(reference "#PWR026")
 					(unit 1)
@@ -10557,7 +10557,7 @@
 			(uuid "4c35750c-6b17-439b-b5cd-cdf0373e0028")
 		)
 		(instances
-			(project ""
+			(project "flight-controller"
 				(path "/a5f7a25c-082f-4bc5-b533-7e16fdbf1e58"
 					(reference "#FLG02")
 					(unit 1)
@@ -10653,7 +10653,7 @@
 			(uuid "5c48f5de-0d9b-460d-8083-6386d71a6865")
 		)
 		(instances
-			(project ""
+			(project "flight-controller"
 				(path "/a5f7a25c-082f-4bc5-b533-7e16fdbf1e58"
 					(reference "C20")
 					(unit 1)
@@ -11044,7 +11044,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad"
 			(at 17.78 170.18 0)
 			(effects
 				(font
@@ -11075,7 +11075,7 @@
 			(uuid "6f39f3ad-ea63-4762-8dfe-3c3502e498b4")
 		)
 		(instances
-			(project ""
+			(project "flight-controller"
 				(path "/a5f7a25c-082f-4bc5-b533-7e16fdbf1e58"
 					(reference "H1")
 					(unit 1)
@@ -11275,7 +11275,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad"
 			(at 27.94 170.18 0)
 			(effects
 				(font
@@ -11505,7 +11505,7 @@
 			(uuid "baba7ffb-b3dc-45f9-8221-1726bcfbf206")
 		)
 		(instances
-			(project ""
+			(project "flight-controller"
 				(path "/a5f7a25c-082f-4bc5-b533-7e16fdbf1e58"
 					(reference "#PWR028")
 					(unit 1)
@@ -12318,7 +12318,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad"
 			(at 45.72 170.18 0)
 			(effects
 				(font
@@ -12482,7 +12482,7 @@
 			(uuid "98dec216-4e40-4f1a-a877-bcf2c760b524")
 		)
 		(instances
-			(project ""
+			(project "flight-controller"
 				(path "/a5f7a25c-082f-4bc5-b533-7e16fdbf1e58"
 					(reference "#PWR030")
 					(unit 1)
@@ -12549,7 +12549,7 @@
 			(uuid "053d6e55-66a6-42b2-8d9e-e267ef0eb85a")
 		)
 		(instances
-			(project ""
+			(project "flight-controller"
 				(path "/a5f7a25c-082f-4bc5-b533-7e16fdbf1e58"
 					(reference "#PWR027")
 					(unit 1)
@@ -12646,7 +12646,7 @@
 			(uuid "3d31a229-9052-46eb-b3dd-2626fcef7528")
 		)
 		(instances
-			(project ""
+			(project "flight-controller"
 				(path "/a5f7a25c-082f-4bc5-b533-7e16fdbf1e58"
 					(reference "C23")
 					(unit 1)
@@ -13539,7 +13539,7 @@
 			(uuid "63ee4ef6-27f6-4676-8d46-e93cf210ac84")
 		)
 		(instances
-			(project ""
+			(project "flight-controller"
 				(path "/a5f7a25c-082f-4bc5-b533-7e16fdbf1e58"
 					(reference "X2")
 					(unit 1)
@@ -13672,7 +13672,7 @@
 			(uuid "950553a8-b20e-4002-a910-ca06f9d96bdc")
 		)
 		(instances
-			(project ""
+			(project "flight-controller"
 				(path "/a5f7a25c-082f-4bc5-b533-7e16fdbf1e58"
 					(reference "#PWR019")
 					(unit 1)
@@ -13901,7 +13901,7 @@
 			(uuid "fb7bb901-b6f2-456d-82d6-ae12ac6e1642")
 		)
 		(instances
-			(project ""
+			(project "flight-controller"
 				(path "/a5f7a25c-082f-4bc5-b533-7e16fdbf1e58"
 					(reference "#FLG01")
 					(unit 1)
@@ -14499,7 +14499,7 @@
 			(uuid "f3cd40bf-0540-474b-844c-85adbe5158d5")
 		)
 		(instances
-			(project ""
+			(project "flight-controller"
 				(path "/a5f7a25c-082f-4bc5-b533-7e16fdbf1e58"
 					(reference "J4")
 					(unit 1)
@@ -14699,7 +14699,7 @@
 			(uuid "b87fd1d7-b4d1-43b5-8c49-85ba89184e40")
 		)
 		(instances
-			(project ""
+			(project "flight-controller"
 				(path "/a5f7a25c-082f-4bc5-b533-7e16fdbf1e58"
 					(reference "C22")
 					(unit 1)
@@ -14763,7 +14763,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "flight-controller"
 				(path "/a5f7a25c-082f-4bc5-b533-7e16fdbf1e58"
 					(reference "FID1")
 					(unit 1)
